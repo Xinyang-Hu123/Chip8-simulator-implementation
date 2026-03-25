@@ -1,3 +1,9 @@
 just a chip8 simulator
+
+
 at first I write it by myself but i can't do it well.
+
+
 then codex help me.........
+
+this simulator written on my Macbook
